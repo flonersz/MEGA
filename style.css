@@ -542,3 +542,79 @@ p {
         font-size: 155%;
     }
 }
+
+@media(max-height:821px) {
+    .waves3 {
+        bottom: -1270px;
+     }
+
+    .waves2 {
+        bottom: -630px;
+     }
+}
+
+@media(max-width: 807px) {
+    .waves3 {
+        bottom: -1250px;
+     }
+
+    .waves2 {
+        bottom: -610px;
+     }
+}
+
+@media(max-width: 793px) {
+    .waves3 {
+        bottom: -1230px;
+     }
+
+    .waves2 {
+        bottom: -610px;
+     }
+
+     .waves4 {
+        bottom: -1960px;
+     }
+}
+
+@media(max-width: 768px) {
+    .waves3 {
+        bottom: -1210px;
+     }
+
+    .waves2 {
+        bottom: -600px;
+     }
+
+     .waves4 {
+        bottom: -1930px;
+     }
+}
+
+@media(max-width: 782px) {
+    .waves3 {
+        bottom: -1190px;
+     }
+
+    .waves2 {
+        bottom: -590px;
+     }
+
+     .waves4 {
+        bottom: -1900px;
+     }
+}
+
+@media(max-width: 758px) {
+    .waves3 {
+        bottom: -1170px;
+     }
+
+    .waves2 {
+        bottom: -580px;
+     }
+
+     .waves4 {
+        bottom: -1870px;
+     }
+}
