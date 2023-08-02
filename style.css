@@ -312,6 +312,17 @@ p {
     background-position-x: 100px;
 }
 
+@media(max-width:2560px) {
+
+    .waves3 {
+        bottom: -1290px;
+     }
+
+    .waves2 {
+        bottom: -670px;
+     }
+}
+
 @media(max-width: 1440px) {
     p {
        font-size: 120%;
@@ -468,7 +479,7 @@ p {
     }
 
     .waves2 {
-        bottom: -690px;
+        bottom: -660px;
     }
 
     .waves3 {
